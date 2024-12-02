@@ -1,0 +1,25 @@
+public class JavaApplication2 {
+    public static void main(String[] args) {
+      
+        
+        int[]movie = new int[3];
+        movie[0]=12;
+        movie[1]=11;
+        movie[2]=10;
+        
+        System.out.println(movie[0]+" Angelo");
+        System.out.println(movie[1]+" Dips");
+        System.out.println(movie[2]+" Ethan");
+
+                
+                
+        
+    }
+
+    private static String nextLine() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+}
+
+        
+    
